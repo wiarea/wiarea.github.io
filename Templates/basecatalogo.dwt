@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Documento sin título</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style type="text/css">
+<!--
+#apDiv1 {
+	position:absolute;
+	left:153px;
+	top:52px;
+	width:784px;
+	height:448px;
+	z-index:1;
+	background-color: #993399;
+	text-align: center;
+}
+#apDiv2 {
+	position:absolute;
+	left:757px;
+	top:83px;
+	width:145px;
+	height:61px;
+	z-index:2;
+}
+#apDiv3 {
+	position:absolute;
+	left:755px;
+	top:156px;
+	width:149px;
+	height:71px;
+	z-index:3;
+}
+#apDiv4 {
+	position:absolute;
+	left:756px;
+	top:241px;
+	width:144px;
+	height:65px;
+	z-index:4;
+}
+#apDiv5 {
+	position:absolute;
+	left:758px;
+	top:318px;
+	width:141px;
+	height:71px;
+	z-index:5;
+}
+#apDiv6 {
+	position:absolute;
+	left:756px;
+	top:404px;
+	width:142px;
+	height:70px;
+	z-index:6;
+}
+-->
+</style>
+</head>
+
+<body>
+<div id="apDiv1"><!-- TemplateBeginEditable name="EditRegion3" -->
+  <table width="50%" border="3" cellspacing="0">
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+  </table>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+<!-- TemplateEndEditable --></div>
+<div align="center"></div>
+</body>
+</html>
